@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cart - ShopIndia</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <div class="logo">Shop<span>India</span></div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="cart.html">Cart 🛒</a>
+      <a href="track.html">Track Order</a>
+    </nav>
+  </header>
+
+  <section class="cart" id="cart"></section>
+  <section class="checkout">
+    <h3>Checkout</h3>
+    <label>Payment Mode
+      <select id="payment-mode">
+        <option value="cod">Cash on Delivery</option>
+        <option value="card">Credit/Debit Card</option>
+        <option value="upi">UPI</option>
+      </select>
+    </label>
+    <label>Delivery Date
+      <input type="date" id="delivery-date">
+    </label>
+    <button onclick="placeOrder()">Place Order</button>
+  </section>
+
+  <footer>© 2025 ShopIndia</footer>
+</body>
+</html>

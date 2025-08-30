@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"Red Silk Saree","price":2999,"category":"saree","image":"https://source.unsplash.com/400x400/?red,saree"},
+  {"id":2,"name":"Blue Denim Jeans","price":1499,"category":"tshirt","image":"https://source.unsplash.com/400x400/?jeans"},
+  {"id":3,"name":"Nike Running Shoes","price":3999,"category":"shoe","image":"https://source.unsplash.com/400x400/?nike,shoes"},
+  {"id":4,"name":"Casio Analog Watch","price":4999,"category":"watch","image":"https://source.unsplash.com/400x400/?watch"},
+  {"id":5,"name":"iPhone 14","price":79999,"category":"mobile","image":"https://source.unsplash.com/400x400/?iphone"},
+  {"id":6,"name":"Samsung Galaxy Laptop","price":59999,"category":"laptop","image":"https://source.unsplash.com/400x400/?laptop"},
+  {"id":7,"name":"Adidas T-Shirt","price":999,"category":"tshirt","image":"https://source.unsplash.com/400x400/?tshirt"},
+  {"id":8,"name":"Leather Wallet","price":799,"category":"accessory","image":"https://source.unsplash.com/400x400/?wallet"},
+  {"id":9,"name":"Formal Shoes","price":2499,"category":"shoe","image":"https://source.unsplash.com/400x400/?formal,shoes"},
+  {"id":10,"name":"Rayban Sunglasses","price":2999,"category":"accessory","image":"https://source.unsplash.com/400x400/?sunglasses"},
+  {"id":11,"name":"Wedding Saree","price":5999,"category":"saree","image":"https://source.unsplash.com/400x400/?wedding,saree"},
+  {"id":12,"name":"HP Laptop","price":49999,"category":"laptop","image":"https://source.unsplash.com/400x400/?hp,laptop"},
+  {"id":13,"name":"Puma Sneakers","price":3499,"category":"shoe","image":"https://source.unsplash.com/400x400/?sneakers"},
+  {"id":14,"name":"Rolex Premium Watch","price":159999,"category":"watch","image":"https://source.unsplash.com/400x400/?rolex,watch"},
+  {"id":15,"name":"Samsung Galaxy Phone","price":69999,"category":"mobile","image":"https://source.unsplash.com/400x400/?samsung,phone"},
+  {"id":16,"name":"Kurta Set","price":2499,"category":"tshirt","image":"https://source.unsplash.com/400x400/?kurta"},
+  {"id":17,"name":"Gaming Laptop","price":89999,"category":"laptop","image":"https://source.unsplash.com/400x400/?gaming,laptop"},
+  {"id":18,"name":"Sports Watch","price":1999,"category":"watch","image":"https://source.unsplash.com/400x400/?sports,watch"},
+  {"id":19,"name":"Ethnic Saree","price":3499,"category":"saree","image":"https://source.unsplash.com/400x400/?ethnic,saree"},
+  {"id":20,"name":"JBL Headphones","price":4999,"category":"accessory","image":"https://source.unsplash.com/400x400/?headphones"}
+]

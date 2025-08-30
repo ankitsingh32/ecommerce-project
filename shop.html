@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shop - ShopIndia</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <div class="logo">Shop<span>India</span></div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="cart.html">Cart 🛒</a>
+      <a href="track.html">Track Order</a>
+    </nav>
+  </header>
+
+  <section class="shop">
+    <aside>
+      <h3>Filters</h3>
+      <label>Category
+        <select id="filter-category">
+          <option value="all">All</option>
+          <option value="saree">Sarees</option>
+          <option value="shoe">Shoes</option>
+          <option value="watch">Watches</option>
+          <option value="tshirt">T-Shirts</option>
+          <option value="mobile">Mobiles</option>
+          <option value="laptop">Laptops</option>
+        </select>
+      </label>
+      <label>Price (Max ₹)
+        <input type="number" id="filter-price" value="5000">
+      </label>
+      <button onclick="applyFilters()">Apply</button>
+    </aside>
+    <div class="products" id="product-list"></div>
+  </section>
+
+  <footer>© 2025 ShopIndia</footer>
+</body>
+</html>
